@@ -1,7 +1,6 @@
 # build products...
 *.py[co]
 build
-AUTHORS.TXT
 # Emacs backup and autosave files...
 *~
 .\#*
